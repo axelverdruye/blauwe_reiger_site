@@ -68,3 +68,13 @@ a {
     float: none;
     display: inline-block;
 }
+
+.clients {
+    text-align: center;
+    list-style-type: none;
+}
+
+.clients li {
+    display: inline-block;
+    margin: 10px;
+}
