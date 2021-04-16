@@ -1,0 +1,70 @@
+.brand img {
+    width: 70px;
+}
+
+#masthead .brand {
+    padding: 11px 15px 15px;
+}
+
+#events .flex-viewport {
+    min-height: 150px;
+}
+
+.lid_info p {
+    text-align: justify;
+}
+
+a {
+    color: #1f4e78;
+}
+
+#masthead .dropdown-menu {
+    background-color: #1f4e78;
+}
+
+#masthead .dropdown-menu a:hover {
+    background-color: white;
+    color: #1f4e78;
+    background-image: none;
+    transition: all 0.5s;
+}
+
+.zaalverhuur .lead {
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.zaalverhuur .align-with-frame {
+    margin-top: -15px;
+}
+
+.tennis_lessen .align-with-frame {
+    margin-top: -10px;
+}
+
+.tennis_lessen .flexslider .slides img {
+    height: 440px;
+}
+
+.flex-control-nav li {
+    padding: 5px 0;
+}
+
+.price{
+    text-align: center;
+}
+
+.price .center__info{
+    float: none;
+    margin: 50px auto;
+    display: inline-block;
+}
+
+.sportkampen  ul.row-fluid {
+    text-align: center;
+}
+
+.sportkampen ul.row-fluid li {
+    float: none;
+    display: inline-block;
+}
